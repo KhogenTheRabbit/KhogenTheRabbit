@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhogenTheRabbit
 - 👀 I’m interested in Minecraft And Programming
 - 🌱 I’m currently learning C++
-- 📫 Discord : KhogenTheRabbit#2391 , Email : ahanafzariatkhan@gmail.com
+- 📫 Discord : KhogenTheRabbit#2391
 
 <!---
 KhogenTheRabbit/KhogenTheRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
