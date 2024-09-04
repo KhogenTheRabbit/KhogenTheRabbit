@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhogenTheRabbit
-- 👀 I’m interested in Minecraft And Programming
-- 🌱 I’m currently learning C++
-- 📫 Discord : KhogenTheRabbit#2391
+- 👀 I’m interested in everything computer related
+- 🌱 I’m currently learning lavarel framework
+- 📫 Discord : KhogenTheRabbit
 
 <!---
 KhogenTheRabbit/KhogenTheRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
